@@ -1,6 +1,6 @@
 # Day-09
 
-Note: Please save the .m files using the function name.
+## Note: Please save the .m files using the function name.
 
 (01)function for input and one output
 
